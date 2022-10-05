@@ -1,0 +1,50 @@
+{
+  "name": "direct-shifts-qe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pupp.js",
+  "dependencies": {
+    "@types/socket.io-client": "^3.0.0",
+    "child_process": "^1.0.2",
+    "dotenv": "^10.0.0",
+    "fs-extra": "^10.1.0",
+    "google-auth-library": "^7.2.0",
+    "socket.io": "^4.5.1",
+    "socket.io-client": "^4.5.1"
+  },
+  "devDependencies": {
+    "cypress": "^10.3.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-grep": "^2.14.0",
+    "cypress-slack-reporter": "^1.2.1",
+    "cypress-social-logins": "^1.11.3",
+    "cypress-wait-until": "^1.7.2",
+    "cypress-xpath": "^2.0.0",
+    "date-and-time": "^1.0.1",
+    "dayjs": "^1.10.6",
+    "eslint-plugin-cypress": "^2.12.1",
+    "faker": "^5.5.3",
+    "join-images": "^0.2.6",
+    "jsonwebtoken": "^8.5.1",
+    "luxon": "^2.0.2",
+    "mochawesome": "^7.0.1",
+    "mochawesome-merge": "^4.2.0",
+    "mochawesome-report-generator": "^6.0.1",
+    "pg": "^8.6.0",
+    "pixelmatch": "^5.2.1",
+    "pngjs": "^6.0.0",
+    "puppeteer": "^10.2.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-stealth": "^2.7.8",
+    "turndown": "^7.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}

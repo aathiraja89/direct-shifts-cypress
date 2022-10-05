@@ -1,0 +1,8 @@
+{
+    "api-config":{
+        "apiVersion":"v1",
+        "api":{
+            "activeSpecialties":"/api/v1/specialties/active_specialties"
+        }
+    }
+}

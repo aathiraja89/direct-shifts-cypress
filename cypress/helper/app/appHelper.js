@@ -1,0 +1,1 @@
+export const jobDescription = `DirectShifts has an excellent Opportunity for a {0} to work in {1}. This is an outpatient opportunity with some call duties with local hospital. ERCP and EUS not required. Buy in opportunities available. Full benefits and generous compensation offered. Relocation packages are available.`
